@@ -1,0 +1,42 @@
+ideas, notes, etc.
+
+this could be a company or, just a place to consolidate thoughts, efforts, etc.
+
+Concepts, Topics to Look into/Explore:
+
+Smart Cities
+Intelligent Transportation Systems
+Home Automation
+Machine to Machine
+
+
+Adjacent Relations: 
+   - Smart Grid
+   - Cyber Physical Systems
+Smart Objects
+Smart Home
+Wearable Technologies
+
+UI:
+Tangible user interface
+Organic user interface
+Natural user interface 
+   - NLP
+Kinetic user interface
+
+Comms:
+X10
+Bluetooth LE
+Z-Wave
+ZigBee
+Power-line communication
+Insteon
+Broadband over power lines
+Mesh networking
+
+
+Platforms
+MS HomeOS (http://research.microsoft.com/en-us/projects/homeos/)
+  http://www.lab-of-things.com/
+HomeSeer
+
